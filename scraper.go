@@ -1,7 +1,6 @@
 package main
 	import "github.com/gocolly/colly"
 	import "fmt"
-)
 
 func main(){
  c := colly.NewCollector(colly.AllowedDomains("www.google.com"))
