@@ -1,9 +1,5 @@
 package main
-
-
-	import (
-
-	colly "github.com/gocolly/colly"
+	import "github.com/gocolly/colly"
 	import "fmt"
 )
 
